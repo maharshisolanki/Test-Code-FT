@@ -9,3 +9,7 @@ https://srituhobby.com/smart-irrigation-system-using-nodemcu-and-blynk/
 https://www.viralsciencecreativity.com/post/nodemcu-esp8266-soil-moisture-water-plants-notification-blynk
 
 https://www.hackster.io/ashshaks/water-your-plants-using-soil-moisture-sensor-3735f4
+
+https://www.hackster.io/ashshaks/water-your-plants-using-soil-moisture-sensor-3735f4
+
+https://iotdesignpro.com/projects/iot-based-soil-moisture-monitoring-system-using-esp32
