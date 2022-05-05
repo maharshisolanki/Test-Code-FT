@@ -66,8 +66,8 @@ void loop() {
  float reading    = 0.0; //Analog channel moisture read
  
   // Match the request
-  int value = LOW;
-  if (request.indexOf("/Up=ON") != -1)  
+  // int value = LOW;
+  //if (request.indexOf("/Up=ON") != -1)  
   //{
      //h = dht.readHumidity();    //Read humidity level
      //t = dht.readTemperature(); //Read temperature in celcius
